@@ -54,3 +54,4 @@ This project aims to detect anomalies in e-commerce transactional data to identi
 ---
 
 ## 📂 Project Structure
+ecommerce-anomaly-detection/ ├── data/ │ └── raw_data.csv ├── notebooks/ │ └── eda.ipynb ├── models/ │ └── final_model.pkl ├── src/ │ ├── data_preprocessing.py │ ├── model_training.py │ └── anomaly_detection.py ├── app/ │ └── app.py ├── Dockerfile ├── requirements.txt └── README.md
